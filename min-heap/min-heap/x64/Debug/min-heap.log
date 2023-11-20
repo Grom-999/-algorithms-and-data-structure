@@ -1,0 +1,15 @@
+﻿  min-heap.cpp
+U:\VS_Project\min-heap\min-heap\min-heap.cpp(54,12): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+U:\VS_Project\min-heap\min-heap\min-heap.cpp(54,9): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+U:\VS_Project\min-heap\min-heap\min-heap.cpp(72,12): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+U:\VS_Project\min-heap\min-heap\min-heap.cpp(72,9): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+U:\VS_Project\min-heap\min-heap\min-heap.cpp(88,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+U:\VS_Project\min-heap\min-heap\min-heap.cpp(96,16): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+U:\VS_Project\min-heap\min-heap\min-heap.cpp(97,12): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+U:\VS_Project\min-heap\min-heap\min-heap.cpp(114,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+U:\VS_Project\min-heap\min-heap\min-heap.cpp(115,27): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+U:\VS_Project\min-heap\min-heap\min-heap.cpp(178,23): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+U:\VS_Project\min-heap\min-heap\min-heap.cpp(194,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+U:\VS_Project\min-heap\min-heap\min-heap.cpp(198,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+U:\VS_Project\min-heap\min-heap\min-heap.cpp(322,25): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  min-heap.vcxproj -> U:\VS_Project\min-heap\x64\Debug\min-heap.exe

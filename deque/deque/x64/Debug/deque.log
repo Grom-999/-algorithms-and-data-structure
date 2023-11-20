@@ -1,0 +1,3 @@
+﻿  deque.cpp
+U:\VS_Project\deque\deque\deque.cpp(131,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  deque.vcxproj -> U:\VS_Project\deque\x64\Debug\deque.exe

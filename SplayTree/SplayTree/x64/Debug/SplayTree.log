@@ -1,0 +1,3 @@
+﻿  SplayTree.cpp
+U:\VS_Project\SplayTree\SplayTree\SplayTree.cpp(309,26): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  SplayTree.vcxproj -> U:\VS_Project\SplayTree\x64\Debug\SplayTree.exe
